@@ -1,2 +1,1 @@
-# FirstRepoPizza
-Making my first repo
+# pizza
